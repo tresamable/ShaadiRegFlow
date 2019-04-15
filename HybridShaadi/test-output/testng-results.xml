@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" total="12" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10371" started-at="2019-04-15T06:56:55Z" finished-at="2019-04-15T06:57:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10371" started-at="2019-04-15T06:56:55Z" finished-at="2019-04-15T06:57:06Z">
+      <class name="runner.ExecuteTestCases">
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="8242" started-at="2019-04-15T12:26:55Z" data-provider="hybridData" finished-at="2019-04-15T12:27:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[open_browser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="95" started-at="2019-04-15T12:27:03Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter_text]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="56" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter_text]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lastname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="411" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter_text]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[email]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test@testing123.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="3" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter_text]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[re-enter_email]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test@testing123.co]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="195" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[enter_text]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NewUser@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="FAIL" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="29" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[month]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Feb]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/openqa/selenium/WrapsElement]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/openqa/selenium/WrapsElement
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at opeartion.UIOperation.perform(UIOperation.java:48)
+	at runner.ExecuteTestCases.execute(ExecuteTestCases.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.WrapsElement
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 38 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="FAIL" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="28" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[day]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/openqa/selenium/support/ui/Select]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/openqa/selenium/support/ui/Select
+	at opeartion.UIOperation.perform(UIOperation.java:48)
+	at runner.ExecuteTestCases.execute(ExecuteTestCases.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="FAIL" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="20" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[year]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/openqa/selenium/support/ui/Select]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/openqa/selenium/support/ui/Select
+	at opeartion.UIOperation.perform(UIOperation.java:48)
+	at runner.ExecuteTestCases.execute(ExecuteTestCases.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="2" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gender]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="1" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[create_account]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[id]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:runner.ExecuteTestCases@1e66f1f5]" name="execute" duration-ms="1233" started-at="2019-04-15T12:27:04Z" data-provider="hybridData" finished-at="2019-04-15T12:27:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[close_browser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- runner.ExecuteTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
